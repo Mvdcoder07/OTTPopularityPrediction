@@ -11,7 +11,7 @@ or Low popularity based on content metadata.
 Decision Tree, KNN, Random Forest, SVM, Logistic Regression
 
 ## Best Model
-Random Forest — XX% Accuracy
+Random Forest — 39% Accuracy
 
 ## Key Finding
 Content metadata alone is insufficient for popularity 
